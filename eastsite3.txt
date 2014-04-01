@@ -1,0 +1,35 @@
+PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=0.693 ms
+64 bytes from 192.168.1.1: icmp_seq=1 ttl=64 time=0.775 ms
+64 bytes from 192.168.1.1: icmp_seq=2 ttl=64 time=1.253 ms
+64 bytes from 192.168.1.1: icmp_seq=3 ttl=64 time=2.107 ms
+64 bytes from 192.168.1.1: icmp_seq=4 ttl=64 time=0.741 ms
+64 bytes from 192.168.1.1: icmp_seq=5 ttl=64 time=0.730 ms
+64 bytes from 192.168.1.1: icmp_seq=6 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.1: icmp_seq=7 ttl=64 time=0.861 ms
+64 bytes from 192.168.1.1: icmp_seq=8 ttl=64 time=0.890 ms
+64 bytes from 192.168.1.1: icmp_seq=9 ttl=64 time=0.808 ms
+64 bytes from 192.168.1.1: icmp_seq=10 ttl=64 time=0.853 ms
+64 bytes from 192.168.1.1: icmp_seq=11 ttl=64 time=0.821 ms
+64 bytes from 192.168.1.1: icmp_seq=12 ttl=64 time=0.845 ms
+64 bytes from 192.168.1.1: icmp_seq=13 ttl=64 time=0.825 ms
+64 bytes from 192.168.1.1: icmp_seq=14 ttl=64 time=0.783 ms
+64 bytes from 192.168.1.1: icmp_seq=15 ttl=64 time=0.819 ms
+64 bytes from 192.168.1.1: icmp_seq=16 ttl=64 time=0.835 ms
+64 bytes from 192.168.1.1: icmp_seq=17 ttl=64 time=0.815 ms
+64 bytes from 192.168.1.1: icmp_seq=18 ttl=64 time=0.795 ms
+64 bytes from 192.168.1.1: icmp_seq=19 ttl=64 time=88.383 ms
+64 bytes from 192.168.1.1: icmp_seq=20 ttl=64 time=55.846 ms
+64 bytes from 192.168.1.1: icmp_seq=21 ttl=64 time=42.440 ms
+64 bytes from 192.168.1.1: icmp_seq=22 ttl=64 time=24.543 ms
+64 bytes from 192.168.1.1: icmp_seq=23 ttl=64 time=0.845 ms
+64 bytes from 192.168.1.1: icmp_seq=24 ttl=64 time=0.839 ms
+64 bytes from 192.168.1.1: icmp_seq=25 ttl=64 time=3.108 ms
+64 bytes from 192.168.1.1: icmp_seq=26 ttl=64 time=0.817 ms
+64 bytes from 192.168.1.1: icmp_seq=27 ttl=64 time=0.827 ms
+64 bytes from 192.168.1.1: icmp_seq=28 ttl=64 time=0.807 ms
+64 bytes from 192.168.1.1: icmp_seq=29 ttl=64 time=1.324 ms
+
+--- 192.168.1.1 ping statistics ---
+30 packets transmitted, 30 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.693/7.894/88.383/19.576 ms

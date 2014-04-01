@@ -1,0 +1,36 @@
+PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=3.423 ms
+64 bytes from 192.168.1.1: icmp_seq=1 ttl=64 time=3.359 ms
+64 bytes from 192.168.1.1: icmp_seq=2 ttl=64 time=10.380 ms
+64 bytes from 192.168.1.1: icmp_seq=3 ttl=64 time=0.892 ms
+64 bytes from 192.168.1.1: icmp_seq=4 ttl=64 time=3.383 ms
+64 bytes from 192.168.1.1: icmp_seq=5 ttl=64 time=3.290 ms
+64 bytes from 192.168.1.1: icmp_seq=6 ttl=64 time=3.279 ms
+64 bytes from 192.168.1.1: icmp_seq=7 ttl=64 time=3.405 ms
+64 bytes from 192.168.1.1: icmp_seq=8 ttl=64 time=6.851 ms
+64 bytes from 192.168.1.1: icmp_seq=9 ttl=64 time=3.477 ms
+64 bytes from 192.168.1.1: icmp_seq=10 ttl=64 time=3.463 ms
+64 bytes from 192.168.1.1: icmp_seq=11 ttl=64 time=18.533 ms
+64 bytes from 192.168.1.1: icmp_seq=12 ttl=64 time=0.902 ms
+64 bytes from 192.168.1.1: icmp_seq=13 ttl=64 time=7.870 ms
+64 bytes from 192.168.1.1: icmp_seq=14 ttl=64 time=3.285 ms
+64 bytes from 192.168.1.1: icmp_seq=15 ttl=64 time=4.044 ms
+64 bytes from 192.168.1.1: icmp_seq=16 ttl=64 time=3.231 ms
+64 bytes from 192.168.1.1: icmp_seq=17 ttl=64 time=5.436 ms
+Request timeout for icmp_seq 18
+64 bytes from 192.168.1.1: icmp_seq=19 ttl=64 time=3.330 ms
+64 bytes from 192.168.1.1: icmp_seq=20 ttl=64 time=3.496 ms
+64 bytes from 192.168.1.1: icmp_seq=21 ttl=64 time=3.310 ms
+64 bytes from 192.168.1.1: icmp_seq=22 ttl=64 time=107.358 ms
+64 bytes from 192.168.1.1: icmp_seq=23 ttl=64 time=101.383 ms
+64 bytes from 192.168.1.1: icmp_seq=24 ttl=64 time=86.547 ms
+64 bytes from 192.168.1.1: icmp_seq=25 ttl=64 time=3.011 ms
+64 bytes from 192.168.1.1: icmp_seq=26 ttl=64 time=3.469 ms
+Request timeout for icmp_seq 27
+64 bytes from 192.168.1.1: icmp_seq=28 ttl=64 time=3.533 ms
+64 bytes from 192.168.1.1: icmp_seq=29 ttl=64 time=7.459 ms
+64 bytes from 192.168.1.1: icmp_seq=30 ttl=64 time=3.408 ms
+
+--- 192.168.1.1 ping statistics ---
+31 packets transmitted, 29 packets received, 6.5% packet loss
+round-trip min/avg/max/stddev = 0.892/14.304/107.358/28.898 ms

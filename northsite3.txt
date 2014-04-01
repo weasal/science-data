@@ -1,0 +1,35 @@
+PING 192.168.1.1 (192.168.1.1): 56 data bytes
+64 bytes from 192.168.1.1: icmp_seq=0 ttl=64 time=10.563 ms
+64 bytes from 192.168.1.1: icmp_seq=1 ttl=64 time=3.412 ms
+64 bytes from 192.168.1.1: icmp_seq=2 ttl=64 time=4.882 ms
+64 bytes from 192.168.1.1: icmp_seq=3 ttl=64 time=28.325 ms
+64 bytes from 192.168.1.1: icmp_seq=4 ttl=64 time=20.912 ms
+64 bytes from 192.168.1.1: icmp_seq=5 ttl=64 time=3.331 ms
+Request timeout for icmp_seq 6
+64 bytes from 192.168.1.1: icmp_seq=7 ttl=64 time=3.403 ms
+64 bytes from 192.168.1.1: icmp_seq=8 ttl=64 time=24.919 ms
+64 bytes from 192.168.1.1: icmp_seq=9 ttl=64 time=3.333 ms
+64 bytes from 192.168.1.1: icmp_seq=10 ttl=64 time=3.412 ms
+64 bytes from 192.168.1.1: icmp_seq=11 ttl=64 time=18.868 ms
+64 bytes from 192.168.1.1: icmp_seq=12 ttl=64 time=3.431 ms
+64 bytes from 192.168.1.1: icmp_seq=13 ttl=64 time=28.073 ms
+64 bytes from 192.168.1.1: icmp_seq=14 ttl=64 time=111.520 ms
+64 bytes from 192.168.1.1: icmp_seq=15 ttl=64 time=90.982 ms
+Request timeout for icmp_seq 16
+64 bytes from 192.168.1.1: icmp_seq=17 ttl=64 time=100.845 ms
+64 bytes from 192.168.1.1: icmp_seq=18 ttl=64 time=3.387 ms
+Request timeout for icmp_seq 19
+64 bytes from 192.168.1.1: icmp_seq=20 ttl=64 time=5.972 ms
+64 bytes from 192.168.1.1: icmp_seq=21 ttl=64 time=5.194 ms
+64 bytes from 192.168.1.1: icmp_seq=22 ttl=64 time=3.184 ms
+64 bytes from 192.168.1.1: icmp_seq=23 ttl=64 time=3.398 ms
+64 bytes from 192.168.1.1: icmp_seq=24 ttl=64 time=3.353 ms
+64 bytes from 192.168.1.1: icmp_seq=25 ttl=64 time=3.674 ms
+64 bytes from 192.168.1.1: icmp_seq=26 ttl=64 time=1.620 ms
+64 bytes from 192.168.1.1: icmp_seq=27 ttl=64 time=7.659 ms
+64 bytes from 192.168.1.1: icmp_seq=28 ttl=64 time=15.841 ms
+64 bytes from 192.168.1.1: icmp_seq=29 ttl=64 time=3.280 ms
+
+--- 192.168.1.1 ping statistics ---
+30 packets transmitted, 27 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 1.620/19.140/111.520/30.213 ms
